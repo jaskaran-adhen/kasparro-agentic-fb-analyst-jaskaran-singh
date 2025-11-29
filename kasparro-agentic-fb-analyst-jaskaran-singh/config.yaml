@@ -1,0 +1,8 @@
+data_path: "data/synthetic_fb_ads_undergarments.csv"
+evaluation:
+  confidence_threshold: 0.6
+output_paths:
+  insights: "insights.json"
+  creatives: "creatives.json" 
+  report: "report.md"
+  logs: "logs/"

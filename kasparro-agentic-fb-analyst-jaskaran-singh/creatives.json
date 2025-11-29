@@ -1,0 +1,45 @@
+{
+  "learned_from_best": {
+    "effective_ctas": [],
+    "popular_themes": [
+      "comfort"
+    ]
+  },
+  "campaign_improvements": [
+    {
+      "campaign_name": "MEN BOL COLORS DROP",
+      "current_ctr_score": 0.0045,
+      "new_ad_options": [
+        "Experience amazing comfort. Shop Now!",
+        "Special limited-time offer. Buy Today!",
+        "Find your perfect comfort for daily wear. Order Now!",
+        "Top-notch comfort you'll enjoy. Shop Today!"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Seamless Everydy",
+      "current_ctr_score": 0.0053,
+      "new_ad_options": [
+        "Experience amazing comfort. Shop Now!",
+        "Special limited-time offer. Buy Today!",
+        "Find your perfect comfort for daily wear. Order Now!",
+        "Top-notch comfort you'll enjoy. Shop Today!"
+      ]
+    },
+    {
+      "campaign_name": "MEN BOLD COL RS DROP",
+      "current_ctr_score": 0.0054,
+      "new_ad_options": [
+        "Experience amazing comfort. Shop Now!",
+        "Special limited-time offer. Buy Today!",
+        "Find your perfect comfort for daily wear. Order Now!",
+        "Top-notch comfort you'll enjoy. Shop Today!"
+      ]
+    }
+  ],
+  "things_to_try": [
+    "Test new call-to-actions against current ones",
+    "Try time-limited offers and urgency",
+    "Experiment with different ad layouts"
+  ]
+}

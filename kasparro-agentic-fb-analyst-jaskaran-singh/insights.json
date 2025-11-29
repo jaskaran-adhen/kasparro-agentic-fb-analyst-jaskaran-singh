@@ -1,0 +1,52 @@
+{
+  "when_analyzed": "2025-11-30T01:51:00.529911",
+  "overall_numbers": {
+    "campaigns_looked_at": 365,
+    "average_roas_score": 9.634399910932975,
+    "average_ctr_score": 0.013065511111111112,
+    "bad_periods_count": 1
+  },
+  "theories_checked": [
+    {
+      "theory_name": "Ads Getting Tired in Big Budget Campaigns",
+      "theory_explanation": "Campaigns spending a lot but not getting good returns",
+      "confidence_level": 0.5,
+      "theory_holds_up": false,
+      "supporting_evidence": {
+        "problem_campaigns": [
+          " en Premium Modal",
+          "M-n Bold Colors Drop",
+          "ME  Signature Soft"
+        ],
+        "average_roas": 2.2167533738651417,
+        "total_money_spent": 530172.6300000001
+      }
+    },
+    {
+      "theory_name": "Audience Getting Tired",
+      "theory_explanation": "Some audience groups not responding well anymore",
+      "confidence_level": 0.6,
+      "theory_holds_up": true,
+      "supporting_evidence": {
+        "tired_audiences": [
+          "Broad"
+        ],
+        "performance_difference": 6.434320667478684
+      }
+    },
+    {
+      "theory_name": "Low Click-Through Campaigns",
+      "theory_explanation": "Campaigns where people aren't clicking much",
+      "confidence_level": 0.6,
+      "theory_holds_up": true,
+      "supporting_evidence": {
+        "low_ctr_campaigns": [
+          "MEN BOL COLORS DROP",
+          "WOMEN Seamless Everydy",
+          "MEN BOLD COL RS DROP"
+        ],
+        "average_ctr": 0.005066666666666666
+      }
+    }
+  ]
+}
